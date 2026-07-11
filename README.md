@@ -99,8 +99,13 @@ I build systems end-to-end — from sensor firmware on ESP32 to YOLO vision mode
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=111111&icon_color=0A66C2&text_color=444444" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=111111&text_color=444444" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=111111&icon_color=0A66C2&text_color=444444&ring_color=0A66C2" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=111111&text_color=444444" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBarh&hide_border=true&background=ffffff&ring=0A66C2&fire=0A66C2&currStreakLabel=111111&sideLabels=444444&dates=888888&currStreakNum=111111&sideNums=111111" />
 
 </div>
 
