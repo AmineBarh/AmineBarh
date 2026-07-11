@@ -32,34 +32,27 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/e94560" width="28" style="vertical-align:middle"/> Featured Projects
+## <img src="https://cdn.simpleicons.org/github/e94560" width="26" style="vertical-align:middle"/> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://cdn.simpleicons.org/opensourceinitiative/F5A623" width="20" style="vertical-align:middle"/>
-        BeeSafe
-      </h3>
+      <h3 align="center">BeeSafe</h3>
       <p align="center">
-        Connected beehive monitoring platform — ESP32/LoRa sensor network, YOLOv8/v11 queen &amp; drone detection (5 classes), Node.js backend, Docker Compose, React Native inspection app with voice input.
+        Connected beehive monitoring platform &mdash; ESP32/LoRa sensor network, YOLOv8/v11 queen &amp; drone detection (5 classes), Node.js backend, Docker Compose, React Native inspection app with voice input.
         <br/><br/>
         <img src="https://img.shields.io/badge/YOLOv11-00FFAB?style=flat-square&logo=pytorch&logoColor=black"/>
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
         <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
         <br/><br/>
-        <img src="https://cdn.simpleicons.org/awsorganizations/00FFAB" width="16" style="vertical-align:middle"/>
         <em>Presented live at ESIEA Green Campus inauguration</em>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://cdn.simpleicons.org/redcross/e94560" width="20" style="vertical-align:middle"/>
-        PreviSante
-      </h3>
+      <h3 align="center">PreviSante</h3>
       <p align="center">
-        Preventive health scoring engine — Node.js REST API, MongoDB, probabilistic risk-scoring model with normalization and weighted risk factors.
+        Preventive health scoring engine &mdash; Node.js REST API, MongoDB, probabilistic risk-scoring model with normalization and weighted risk factors.
         <br/><br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -73,7 +66,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="28" style="vertical-align:middle"/> AI & Machine Learning
+## <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="26" style="vertical-align:middle"/> AI & Machine Learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
@@ -86,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" title="Scikit-learn"/>
 </p>
 
-## <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="28" style="vertical-align:middle"/> Web & Backend
+## <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="26" style="vertical-align:middle"/> Web & Backend
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
@@ -98,7 +91,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
 </p>
 
-## <img src="https://cdn.simpleicons.org/espressif/E7352C" width="28" style="vertical-align:middle"/> Embedded & IoT
+## <img src="https://cdn.simpleicons.org/espressif/E7352C" width="26" style="vertical-align:middle"/> Embedded & IoT
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/espressif/E7352C" width="45" height="45" title="ESP32 / Espressif"/>
@@ -109,13 +102,13 @@
   <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="45" height="45" title="Raspberry Pi"/>
 </p>
 
-## <img src="https://cdn.simpleicons.org/git/F05032" width="28" style="vertical-align:middle"/> Tools & Cloud
+## <img src="https://cdn.simpleicons.org/git/F05032" width="26" style="vertical-align:middle"/> Tools & Cloud
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="45" height="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="45" height="45" title="Google Colab"/>
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45" height="45" title="AWS"/>
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="45" height="45" title="AWS"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" height="45" title="Figma"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" height="45" title="Postman"/>
   <img src="https://cdn.simpleicons.org/nginx/009639" width="45" height="45" title="NGINX"/>
@@ -125,7 +118,7 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/e94560" width="28" style="vertical-align:middle"/> GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/e94560" width="26" style="vertical-align:middle"/> GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -140,21 +133,18 @@
 
 ---
 
-## <img src="https://cdn.simpleicons.org/awsorganizations/F5A623" width="28" style="vertical-align:middle"/> Highlights
+## <img src="https://cdn.simpleicons.org/gitHub/e94560" width="26" style="vertical-align:middle"/> Highlights
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/medal/C0C0C0" width="18" style="vertical-align:middle"/>
-  <strong> 2nd place</strong> — B-TECH 2025 national innovation competition <em>(team lead)</em>
-  <br/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="18" style="vertical-align:middle"/>
-  <strong> CCNA</strong> (Cisco) &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="18" style="vertical-align:middle"/>
-  <strong> AWS Academy</strong> Cloud Foundations &nbsp;·&nbsp;
-  <img src="https://cdn.simpleicons.org/duolingo/58CC02" width="18" style="vertical-align:middle"/>
-  <strong> TOEIC 900</strong>
-  <br/>
-  <img src="https://cdn.simpleicons.org/leaflet/199900" width="18" style="vertical-align:middle"/>
-  <strong> Green Campus inauguration</strong> presenter — BeeSafe live demo
+  &nbsp;<img src="https://img.shields.io/badge/%F0%9F%A5%88%202nd%20Place-B--TECH%202025-silver?style=flat-square" />
+  <strong> National innovation competition</strong> &mdash; team lead
+  <br/><br/>
+  <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Academy-Cloud_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOEIC-900-58CC02?style=flat-square&logo=duolingo&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Green%20Campus-Inauguration%20Speaker-00FFAB?style=flat-square&logo=leaflet&logoColor=black" />
+  <strong> BeeSafe live demo &mdash; ESIEA</strong>
 </p>
 
 <br/>
