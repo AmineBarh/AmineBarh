@@ -1,4 +1,4 @@
-<!-- TERMINAL — AmineBarh -->
+<!-- TERMINAL - AmineBarh -->
 
 <div align="center">
 
@@ -8,10 +8,10 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  user      Mohamed Amine Barhoumi                               ║
 ║  role      AI Engineer · Computer Vision · IoT                  ║
-║  school    ESIEA Paris — 4th year engineering                   ║
+║  school    ESIEA Paris - 4th year engineering                   ║
 ║  location  Cachan, France                                       ║
 ║  status    ● OPEN · 6-month internship · Feb 2027               ║
-║  motto     I don't just train models — I ship systems.          ║
+║  motto     I don't just train models - I ship systems.          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -44,7 +44,7 @@ PORT      STATE   SERVICE        VERSION
 5021/tcp  open    devops         Docker · Linux · GitHub Actions
 5030/tcp  open    mobile         React Native
 
-8 open ports — no filtered services.
+8 open ports - no filtered services.
 OS: Engineer brain running on caffeine and curiosity.
 ```
 
@@ -56,27 +56,27 @@ root@amine:~$ ping -c 4 domains.amine.local
 
 ```
 PING ai.amine.local
-64 bytes from ai.amine.local: seq=1 ttl=64 time=2ms   —  PyTorch · YOLO · OpenCV
-64 bytes from ai.amine.local: seq=2 ttl=64 time=2ms   —  model training · real-time inference
-64 bytes from ai.amine.local: seq=3 ttl=64 time=1ms   —  computer vision pipelines
-64 bytes from ai.amine.local: seq=4 ttl=64 time=1ms   —  STRONG signal ●
+64 bytes from ai.amine.local: seq=1 ttl=64 time=2ms   -  PyTorch · YOLO · OpenCV
+64 bytes from ai.amine.local: seq=2 ttl=64 time=2ms   -  model training · real-time inference
+64 bytes from ai.amine.local: seq=3 ttl=64 time=1ms   -  computer vision pipelines
+64 bytes from ai.amine.local: seq=4 ttl=64 time=1ms   -  STRONG signal ●
 
 PING iot.amine.local
-64 bytes from iot.amine.local: seq=1 ttl=64 time=4ms  —  ESP32 · LoRa · MQTT
-64 bytes from iot.amine.local: seq=2 ttl=64 time=4ms  —  sensor networks · embedded C
-64 bytes from iot.amine.local: seq=3 ttl=64 time=3ms  —  hardware-to-cloud pipelines
-64 bytes from iot.amine.local: seq=4 ttl=64 time=3ms  —  STRONG signal ●
+64 bytes from iot.amine.local: seq=1 ttl=64 time=4ms  -  ESP32 · LoRa · MQTT
+64 bytes from iot.amine.local: seq=2 ttl=64 time=4ms  -  sensor networks · embedded C
+64 bytes from iot.amine.local: seq=3 ttl=64 time=3ms  -  hardware-to-cloud pipelines
+64 bytes from iot.amine.local: seq=4 ttl=64 time=3ms  -  STRONG signal ●
 
 PING backend.amine.local
-64 bytes from backend.amine.local: seq=1 ttl=64 time=6ms  —  Node.js · MongoDB · Docker
-64 bytes from backend.amine.local: seq=2 ttl=64 time=5ms  —  REST APIs · GitHub Actions
-64 bytes from backend.amine.local: seq=3 ttl=64 time=5ms  —  Linux · containerised deploys
-64 bytes from backend.amine.local: seq=4 ttl=64 time=5ms  —  GOOD signal ●
+64 bytes from backend.amine.local: seq=1 ttl=64 time=6ms  -  Node.js · MongoDB · Docker
+64 bytes from backend.amine.local: seq=2 ttl=64 time=5ms  -  REST APIs · GitHub Actions
+64 bytes from backend.amine.local: seq=3 ttl=64 time=5ms  -  Linux · containerised deploys
+64 bytes from backend.amine.local: seq=4 ttl=64 time=5ms  -  GOOD signal ●
 
 PING mobile.amine.local
-64 bytes from mobile.amine.local: seq=1 ttl=64 time=9ms  —  React Native
-64 bytes from mobile.amine.local: seq=2 ttl=64 time=9ms  —  cross-platform apps
-64 bytes from mobile.amine.local: seq=4 ttl=64 time=8ms  —  GOOD signal ●
+64 bytes from mobile.amine.local: seq=1 ttl=64 time=9ms  -  React Native
+64 bytes from mobile.amine.local: seq=2 ttl=64 time=9ms  -  cross-platform apps
+64 bytes from mobile.amine.local: seq=4 ttl=64 time=8ms  -  GOOD signal ●
 ```
 
 ---
@@ -95,13 +95,13 @@ root@amine:~$ cat projects/BeeSafe/README
 ```
 
 ```
-  🐝  BeeSafe — Connected beehive monitoring platform
+    BeeSafe - Connected beehive monitoring platform
   ─────────────────────────────────────────────────
   STACK   ESP32 → LoRa → MQTT → Node.js → Docker → React Native
           YOLOv11 · 5 behavioural classes · real-time inference
 
   RESULT  Live demo @ ESIEA Green Campus inauguration
-  AWARD   🥈 2nd place — B-TECH 2025 (team lead)
+  AWARD   🥈 2nd place - B-TECH 2025 (team lead)
   STATUS  [██████████████████░░] 90% deployed
 ```
 
@@ -110,7 +110,7 @@ root@amine:~$ cat projects/PreviSante/README
 ```
 
 ```
-  🏥  PreviSante — Preventive health scoring engine
+  🏥  PreviSante - Preventive health scoring engine
   ───────────────────────────────────────────────
   STACK   Node.js · MongoDB · probabilistic risk model
           Weighted normalisation · multi-pathology extensible
@@ -124,11 +124,11 @@ root@amine:~$ cat achievements.log
 ```
 
 ```
-[✔]  🥈  2nd place — B-TECH 2025 national innovation competition (team lead)
+[✔]  🥈  2nd place - B-TECH 2025 national innovation competition (team lead)
 [✔]  🎤  Live demo of BeeSafe @ ESIEA Green Campus inauguration
-[✔]  🌐  CCNA — Cisco Certified Network Associate
+[✔]  🌐  CCNA - Cisco Certified Network Associate
 [✔]  ☁️   AWS Academy Cloud Foundations
-[✔]  🗣️   TOEIC 900 — C1 English proficiency
+[✔]  🗣️   TOEIC 900 - C1 English proficiency
 ```
 
 ---
