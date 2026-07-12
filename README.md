@@ -15,10 +15,10 @@
  └──────────────────────────────────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2339FF14?style=flat-square&logo=linkedin&logoColor=000)](https://linkedin.com/in/mohamed-amine-b-engineer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2339FF14?style=flat-square&logo=vercel&logoColor=000)](https://amine-portfolio-lilac.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-%2339FF14?style=flat-square&logo=medium&logoColor=000)](https://medium.com/@medamine-barhoumi)
-[![Email](https://img.shields.io/badge/Email-%2339FF14?style=flat-square&logo=gmail&logoColor=000)](mailto:mohamedamine.barhoumi.eng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-b-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://amine-portfolio-lilac.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@medamine-barhoumi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedamine.barhoumi.eng@gmail.com)
 
 </div>
 
