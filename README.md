@@ -1,132 +1,167 @@
-<![CDATA[<div align="center">
+<!-- TERMINAL PROFILE — AmineBarh -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=200&section=header&text=Mohamed%20Amine%20Barhoumi&fontSize=36&fontColor=e6edf3&fontAlignY=55&desc=AI%20Engineer%20·%20Computer%20Vision%20·%20IoT%20·%20Embedded%20Systems&descAlignY=75&descSize=14&descColor=8b949e" alt="header"/>
+<div align="center">
 
-<br/>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ██████╗  ██████╗  ██████╗ ████████╗    ██████╗ ██╗ ██████╗       │
+│   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗██║██╔═══██╗      │
+│   ██████╔╝██║   ██║██║   ██║   ██║       ██████╔╝██║██║   ██║      │
+│   ██╔══██╗██║   ██║██║   ██║   ██║       ██╔══██╗██║██║   ██║      │
+│   ██║  ██║╚██████╔╝╚██████╔╝   ██║       ██████╔╝██║╚██████╔╝      │
+│   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚═════╝ ╚═╝ ╚═════╝       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+end-to-end+intelligent+systems.;From+ESP32+sensors+to+YOLO+vision+pipelines.;From+embedded+C+to+containerised+ML+backends.;ESIEA+Paris+·+4th+year+engineering+student.;Open+to+internship+·+Feb+2027.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-b-engineer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://amine-portfolio-lilac.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@medamine-barhoumi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedamine.barhoumi.eng@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=root%40amine%3A~%24+whoami;%3E+AI+Engineer+%2F+Computer+Vision+%2F+IoT+%2F+Embedded+Systems;root%40amine%3A~%24+cat+mission.txt;%3E+Building+end-to-end+intelligent+systems+that+run+in+the+real+world.;root%40amine%3A~%24+cat+status.txt;%3E+4th+year+%40+ESIEA+Paris+%E2%80%94+seeking+internship+Feb+2027)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
+```bash
+root@amine:~$ cat about.txt
+```
 
-## ❝ &nbsp;I don't just train models — I ship systems. &nbsp;❞
-
-</div>
-
-<br/>
-
-I build things that run in the real world — sensor networks talking over LoRa, vision models detecting life at 30fps, backends that don't sleep. Currently a 4th-year engineering student at **ESIEA Paris**, looking for a **6-month final-year internship starting February 2027** in Machine Learning, Computer Vision, or IoT.
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐝 &nbsp;BeeSafe
-**Computer Vision · IoT · Full-stack**
-
-Connected beehive monitoring platform built for real-world deployment.
-
-- ESP32 + LoRa sensor mesh for temperature, humidity & weight
-- **YOLOv11** bee detection — 5 behavioural classes
-- Node.js + Docker backend · React Native mobile app
-- 🏆 Presented live at the **ESIEA Green Campus inauguration**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 &nbsp;PreviSante
-**Full-stack · ML · Health Tech**
-
-Preventive health scoring engine designed for clinical use.
-
-- REST API in Node.js · MongoDB persistence layer
-- Probabilistic risk model with weighted normalization
-- Modular architecture for multi-pathology extension
-- Clean separation between inference engine and API layer
-
-</td>
-</tr>
-</table>
+```
+NAME     : Mohamed Amine Barhoumi
+LOCATION : Cachan, France
+SCHOOL   : ESIEA Paris — Engineering (4th year)
+FOCUS    : Machine Learning · Computer Vision · IoT · Embedded Systems
+SEEKING  : 6-month final internship · Feb 2027 · ML / CV / IoT
+MOTTO    : "I don't just train models — I ship systems."
+```
 
 ---
 
-## 🧠 &nbsp;Stack
+```bash
+root@amine:~$ ls -la projects/
+```
+
+```
+drwxr-xr-x  BeeSafe/          [Computer Vision · IoT · Full-stack]
+drwxr-xr-x  PreviSante/       [Full-stack · ML · Health Tech]
+```
+
+```bash
+root@amine:~$ cat projects/BeeSafe/README.md
+```
+
+```
+┌──────────────────────────────────────────────────────┐
+│  🐝  BeeSafe — Connected Beehive Monitoring Platform │
+└──────────────────────────────────────────────────────┘
+
+HARDWARE   ESP32 + LoRa sensor mesh
+           └── temperature / humidity / weight
+
+VISION     YOLOv11 bee detection
+           └── 5 behavioural classes · real-time inference
+
+BACKEND    Node.js + Docker
+           └── containerised ML pipeline
+
+MOBILE     React Native app
+
+AWARD      🏆  Presented live @ ESIEA Green Campus inauguration
+           🥈  2nd place — B-TECH 2025 national competition (team lead)
+
+STATUS     [██████████████████░░] 90% DEPLOYED
+```
+
+```bash
+root@amine:~$ cat projects/PreviSante/README.md
+```
+
+```
+┌────────────────────────────────────────────────────────┐
+│  🏥  PreviSante — Preventive Health Scoring Engine     │
+└────────────────────────────────────────────────────────┘
+
+API        REST · Node.js
+DATABASE   MongoDB persistence layer
+MODEL      Probabilistic risk scoring · weighted normalization
+ARCH       Modular · multi-pathology extensible
+
+STATUS     [████████████████████] 100% SHIPPED
+```
+
+---
+
+```bash
+root@amine:~$ cat stack.cfg
+```
+
+```ini
+[AI_ML]
+languages  = Python
+frameworks = PyTorch, TensorFlow, Ultralytics YOLO
+tools      = OpenCV, Scikit-learn, Pandas, NumPy
+
+[EMBEDDED_IOT]
+hardware   = ESP32, Arduino
+protocols  = LoRa, MQTT, I2C, SPI
+lang       = C, C++
+
+[BACKEND_INFRA]
+runtime    = Node.js
+database   = MongoDB
+devops     = Docker, Linux, Git, GitHub Actions
+
+[MOBILE]
+framework  = React Native
+```
+
+---
+
+```bash
+root@amine:~$ cat certifications.log
+```
+
+```
+[✔] CCNA        — Cisco Certified Network Associate
+[✔] AWS         — Academy Cloud Foundations
+[✔] TOEIC 900   — C1 English proficiency
+[✔] B-TECH 2025 — 2nd place, national innovation competition
+```
+
+---
+
+```bash
+root@amine:~$ ./stats.sh --user AmineBarh
+```
 
 <div align="center">
 
-**AI / ML**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" title="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" title="PyTorch"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" title="TensorFlow"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" title="OpenCV"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="36" title="Scikit-learn"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" title="Pandas"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=a0a0a0&ring_color=39ff14" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=a0a0a0" height="160"/>
 
 <br/><br/>
 
-**Embedded / IoT**
-
-<img src="https://cdn.simpleicons.org/espressif/E7352C" width="36" title="ESP32"/>&nbsp;
-<img src="https://cdn.simpleicons.org/arduino/00979D" width="36" title="Arduino"/>&nbsp;
-<img src="https://cdn.simpleicons.org/eclipsemosquitto/342D7E" width="36" title="MQTT"/>
-
-<br/><br/>
-
-**Backend / Infrastructure**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" title="Node.js"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" title="React Native"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" title="Docker"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="36" title="Linux"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" title="Git"/>
+<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=a0a0a0&sideLabels=a0a0a0&dates=a0a0a0&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
 
 </div>
 
 ---
 
-## 📊 &nbsp;Stats
+```bash
+root@amine:~$ cat links.sh && bash links.sh
+```
+
+```bash
+#!/bin/bash
+echo "Connecting to external nodes..."
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="150"/>
-
-</div>
-
----
-
-## 🏅 &nbsp;Highlights
-
-<div align="center">
-
-| &nbsp; | &nbsp; |
-|:---:|:---|
-| 🥈 | **2nd place** — B-TECH 2025 national innovation competition *(team lead)* |
-| 🎤 | Presented **BeeSafe** live at the ESIEA Green Campus inauguration |
-| 🌐 | **CCNA** — Cisco Certified Network Associate |
-| ☁️ | **AWS Academy** Cloud Foundations |
-| 🗣️ | **TOEIC 900** — C1 English proficiency |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff9f?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/mohamed-amine-b-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2339FF14?style=for-the-badge&logo=vercel&logoColor=000000)](https://amine-portfolio-lilac.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-%2300ff9f?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@medamine-barhoumi)
+[![Email](https://img.shields.io/badge/Email-%2339FF14?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohamedamine.barhoumi.eng@gmail.com)
 
 </div>
 
@@ -134,9 +169,10 @@ Preventive health scoring engine designed for clinical use.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:0d1117&height=100&section=footer" alt="footer"/>
+```
+root@amine:~$ _
+```
 
-*Open to collaboration · Always building something.*
+*Always building something.*
 
 </div>
-]]>
