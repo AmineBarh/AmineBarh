@@ -1,178 +1,140 @@
-<!-- TERMINAL PROFILE — AmineBarh -->
+<div align="center">
+
+<br/>
+
+# Mohamed Amine Barhoumi
+
+**AI Engineer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Embedded Systems**
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&pause=1400&color=6E8EFB&center=true&vCenter=true&width=600&lines=Building+end-to-end+intelligent+systems.;From+ESP32+sensors+to+YOLO+vision+pipelines.;From+embedded+C+to+containerised+ML+backends.;ESIEA+Paris+%C2%B7+Seeking+internship+%C2%B7+Feb+2027.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E8EFB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-b-engineer)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E8EFB?style=flat-square&logo=vercel&logoColor=white)](https://amine-portfolio-lilac.vercel.app/)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-6E8EFB?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@medamine-barhoumi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-6E8EFB?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedamine.barhoumi.eng@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+I build things that run in the real world — sensor networks talking over LoRa, vision models detecting life at 30 fps, backends that don't sleep. Currently a 4th-year engineering student at **ESIEA Paris**, open to a **6-month final internship starting February 2027** in Machine Learning, Computer Vision, or IoT.
+
+<br/>
+
+---
+
+<br/>
+
+## Selected Work
+
+<br/>
+
+**🐝 BeeSafe** &nbsp;—&nbsp; *Computer Vision · IoT · Full-stack*
+
+> Connected beehive monitoring platform built for real-world deployment. ESP32 + LoRa sensor mesh for temperature, humidity & weight. YOLOv11 bee detection across 5 behavioural classes at real-time speed. Node.js + Docker backend, React Native mobile app.
+> 
+> 🏆 Presented live at the **ESIEA Green Campus inauguration** &nbsp;·&nbsp; 🥈 **2nd place — B-TECH 2025** national innovation competition
+
+<br/>
+
+**🏥 PreviSante** &nbsp;—&nbsp; *Full-stack · ML · Health Tech*
+
+> Preventive health scoring engine designed for clinical use. REST API in Node.js, MongoDB persistence, probabilistic risk model with weighted normalization. Modular architecture built for multi-pathology extension.
+
+<br/>
+
+---
+
+<br/>
+
+## Stack
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ██████╗  ██████╗  ██████╗ ████████╗    ██████╗ ██╗ ██████╗       │
-│   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ██╔══██╗██║██╔═══██╗      │
-│   ██████╔╝██║   ██║██║   ██║   ██║       ██████╔╝██║██║   ██║      │
-│   ██╔══██╗██║   ██║██║   ██║   ██║       ██╔══██╗██║██║   ██║      │
-│   ██║  ██║╚██████╔╝╚██████╔╝   ██║       ██████╔╝██║╚██████╔╝      │
-│   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝   ╚═╝       ╚═════╝ ╚═╝ ╚═════╝       │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=root%40amine%3A~%24+whoami;%3E+AI+Engineer+%2F+Computer+Vision+%2F+IoT+%2F+Embedded+Systems;root%40amine%3A~%24+cat+mission.txt;%3E+Building+end-to-end+intelligent+systems+that+run+in+the+real+world.;root%40amine%3A~%24+cat+status.txt;%3E+4th+year+%40+ESIEA+Paris+%E2%80%94+seeking+internship+Feb+2027)](https://git.io/typing-svg)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=6E8EFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=6E8EFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=6E8EFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=6E8EFB)
+![YOLO](https://img.shields.io/badge/YOLO-1a1a2e?style=flat-square&logo=ultralytics&logoColor=6E8EFB)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=6E8EFB)
+
+<br/>
+
+![ESP32](https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=6E8EFB)
+![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=6E8EFB)
+![LoRa](https://img.shields.io/badge/LoRa-1a1a2e?style=flat-square&logo=semtech&logoColor=6E8EFB)
+![MQTT](https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=eclipsemosquitto&logoColor=6E8EFB)
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=6E8EFB)
+![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=flat-square&logo=react&logoColor=6E8EFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=6E8EFB)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=6E8EFB)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=6E8EFB)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=6E8EFB)
+
+<br/>
 
 </div>
 
 ---
 
-```bash
-root@amine:~$ cat about.txt
-```
+<br/>
 
-```
-NAME     : Mohamed Amine Barhoumi
-LOCATION : Cachan, France
-SCHOOL   : ESIEA Paris — Engineering (4th year)
-FOCUS    : Machine Learning · Computer Vision · IoT · Embedded Systems
-SEEKING  : 6-month final internship · Feb 2027 · ML / CV / IoT
-MOTTO    : "I don't just train models — I ship systems."
-```
+## Highlights
 
----
+| | |
+|:--|:---|
+| 🥈 | **2nd place** — B-TECH 2025 national innovation competition *(team lead)* |
+| 🎤 | Presented **BeeSafe** live at the ESIEA Green Campus inauguration |
+| 🌐 | **CCNA** — Cisco Certified Network Associate |
+| ☁️ | **AWS Academy** Cloud Foundations |
+| 🗣️ | **TOEIC 900** — C1 English proficiency |
 
-```bash
-root@amine:~$ ls -la projects/
-```
-
-```
-drwxr-xr-x  BeeSafe/          [Computer Vision · IoT · Full-stack]
-drwxr-xr-x  PreviSante/       [Full-stack · ML · Health Tech]
-```
-
-```bash
-root@amine:~$ cat projects/BeeSafe/README.md
-```
-
-```
-┌──────────────────────────────────────────────────────┐
-│  🐝  BeeSafe — Connected Beehive Monitoring Platform │
-└──────────────────────────────────────────────────────┘
-
-HARDWARE   ESP32 + LoRa sensor mesh
-           └── temperature / humidity / weight
-
-VISION     YOLOv11 bee detection
-           └── 5 behavioural classes · real-time inference
-
-BACKEND    Node.js + Docker
-           └── containerised ML pipeline
-
-MOBILE     React Native app
-
-AWARD      🏆  Presented live @ ESIEA Green Campus inauguration
-           🥈  2nd place — B-TECH 2025 national competition (team lead)
-
-STATUS     [██████████████████░░] 90% DEPLOYED
-```
-
-```bash
-root@amine:~$ cat projects/PreviSante/README.md
-```
-
-```
-┌────────────────────────────────────────────────────────┐
-│  🏥  PreviSante — Preventive Health Scoring Engine     │
-└────────────────────────────────────────────────────────┘
-
-API        REST · Node.js
-DATABASE   MongoDB persistence layer
-MODEL      Probabilistic risk scoring · weighted normalization
-ARCH       Modular · multi-pathology extensible
-
-STATUS     [████████████████████] 100% SHIPPED
-```
+<br/>
 
 ---
 
-```bash
-root@amine:~$ cat stack.cfg
-```
+<br/>
 
-```ini
-[AI_ML]
-languages  = Python
-frameworks = PyTorch, TensorFlow, Ultralytics YOLO
-tools      = OpenCV, Scikit-learn, Pandas, NumPy
-
-[EMBEDDED_IOT]
-hardware   = ESP32, Arduino
-protocols  = LoRa, MQTT, I2C, SPI
-lang       = C, C++
-
-[BACKEND_INFRA]
-runtime    = Node.js
-database   = MongoDB
-devops     = Docker, Linux, Git, GitHub Actions
-
-[MOBILE]
-framework  = React Native
-```
-
----
-
-```bash
-root@amine:~$ cat certifications.log
-```
-
-```
-[✔] CCNA        — Cisco Certified Network Associate
-[✔] AWS         — Academy Cloud Foundations
-[✔] TOEIC 900   — C1 English proficiency
-[✔] B-TECH 2025 — 2nd place, national innovation competition
-```
-
----
-
-```bash
-root@amine:~$ ./stats.sh --user AmineBarh
-```
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=a0a0a0&ring_color=39ff14" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=39ff14&text_color=a0a0a0" height="160"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=6E8EFB&icon_color=6E8EFB&text_color=8b8fa8&ring_color=6E8EFB" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d1a&title_color=6E8EFB&text_color=8b8fa8" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d1117&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakLabel=a0a0a0&sideLabels=a0a0a0&dates=a0a0a0&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
+<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d0d1a&stroke=6E8EFB&ring=6E8EFB&fire=a78bfa&currStreakLabel=8b8fa8&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
+
+<br/>
 
 </div>
 
 ---
 
-```bash
-root@amine:~$ cat links.sh && bash links.sh
-```
-
-```bash
-#!/bin/bash
-echo "Connecting to external nodes..."
-```
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff9f?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/mohamed-amine-b-engineer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2339FF14?style=for-the-badge&logo=vercel&logoColor=000000)](https://amine-portfolio-lilac.vercel.app/)
-[![Medium](https://img.shields.io/badge/Medium-%2300ff9f?style=for-the-badge&logo=medium&logoColor=000000)](https://medium.com/@medamine-barhoumi)
-[![Email](https://img.shields.io/badge/Email-%2339FF14?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mohamedamine.barhoumi.eng@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-```
-root@amine:~$ _
-```
-
-*Always building something.*
+*Open to collaboration &nbsp;·&nbsp; Always building something.*
 
 </div>
