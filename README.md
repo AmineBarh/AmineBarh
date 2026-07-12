@@ -25,22 +25,58 @@
 ---
 
 ```bash
-root@amine:~$ git log --oneline --since="2022" --author="Amine"
+root@amine:~$ nmap -sV --open amine.local
 ```
 
 ```
-2026  ●  Refining the system. Seeking the internship that matters.
-      │
-2025  ●  Full-stack ML: Docker pipelines, React Native, health models.
-      │  Started writing about it on Medium.
-      │
-2024  ●  Built BeeSafe end-to-end. Sensors + YOLO + backend + mobile.
-      │  Presented live at ESIEA inauguration. Won B-TECH 2025 (2nd 🥈).
-      │
-2023  ●  Went deep on embedded: ESP32, LoRa, real-time sensor networks.
-      │  Realised I wanted machines to *see*, not just measure.
-      │
-2022  ●  First C program. First "wait, code controls hardware?" moment.
+Starting Nmap 7.95 ( https://nmap.org )
+Scan report for amine.local (127.0.0.1)
+Host is UP (0.0ms latency).
+
+PORT      STATE   SERVICE        VERSION
+----      -----   -------        -------
+5000/tcp  open    python         PyTorch 2.x · TensorFlow · Ultralytics YOLO
+5001/tcp  open    vision         OpenCV · real-time inference pipeline
+5002/tcp  open    ml-tools       Scikit-learn · Pandas · NumPy
+5010/tcp  open    embedded       ESP32 · Arduino · C · C++
+5011/tcp  open    protocols      LoRa · MQTT · I2C · SPI
+5020/tcp  open    backend        Node.js · MongoDB · REST API
+5021/tcp  open    devops         Docker · Linux · GitHub Actions
+5030/tcp  open    mobile         React Native
+
+8 open ports — no filtered services.
+OS: Engineer brain running on caffeine and curiosity.
+```
+
+---
+
+```bash
+root@amine:~$ ping -c 4 domains.amine.local
+```
+
+```
+PING ai.amine.local
+64 bytes from ai.amine.local: seq=1 ttl=64 time=2ms   —  PyTorch · YOLO · OpenCV
+64 bytes from ai.amine.local: seq=2 ttl=64 time=2ms   —  model training · real-time inference
+64 bytes from ai.amine.local: seq=3 ttl=64 time=1ms   —  computer vision pipelines
+64 bytes from ai.amine.local: seq=4 ttl=64 time=1ms   —  STRONG signal ●
+
+PING iot.amine.local
+64 bytes from iot.amine.local: seq=1 ttl=64 time=4ms  —  ESP32 · LoRa · MQTT
+64 bytes from iot.amine.local: seq=2 ttl=64 time=4ms  —  sensor networks · embedded C
+64 bytes from iot.amine.local: seq=3 ttl=64 time=3ms  —  hardware-to-cloud pipelines
+64 bytes from iot.amine.local: seq=4 ttl=64 time=3ms  —  STRONG signal ●
+
+PING backend.amine.local
+64 bytes from backend.amine.local: seq=1 ttl=64 time=6ms  —  Node.js · MongoDB · Docker
+64 bytes from backend.amine.local: seq=2 ttl=64 time=5ms  —  REST APIs · GitHub Actions
+64 bytes from backend.amine.local: seq=3 ttl=64 time=5ms  —  Linux · containerised deploys
+64 bytes from backend.amine.local: seq=4 ttl=64 time=5ms  —  GOOD signal ●
+
+PING mobile.amine.local
+64 bytes from mobile.amine.local: seq=1 ttl=64 time=9ms  —  React Native
+64 bytes from mobile.amine.local: seq=2 ttl=64 time=9ms  —  cross-platform apps
+64 bytes from mobile.amine.local: seq=4 ttl=64 time=8ms  —  GOOD signal ●
 ```
 
 ---
@@ -60,7 +96,7 @@ root@amine:~$ cat projects/BeeSafe/README
 
 ```
   🐝  BeeSafe — Connected beehive monitoring platform
-  ─────────────────────────────────────────────────────
+  ─────────────────────────────────────────────────
   STACK   ESP32 → LoRa → MQTT → Node.js → Docker → React Native
           YOLOv11 · 5 behavioural classes · real-time inference
 
@@ -75,36 +111,10 @@ root@amine:~$ cat projects/PreviSante/README
 
 ```
   🏥  PreviSante — Preventive health scoring engine
-  ─────────────────────────────────────────────────
+  ───────────────────────────────────────────────
   STACK   Node.js · MongoDB · probabilistic risk model
-  MODEL   Weighted normalisation · multi-pathology extensible
+          Weighted normalisation · multi-pathology extensible
   STATUS  [████████████████████] 100% shipped
-```
-
----
-
-```bash
-root@amine:~$ cat stack.cfg
-```
-
-```ini
-[AI_ML]
-python     = ██████████  PyTorch · TensorFlow · Ultralytics YOLO
-vision     = ████████░░  OpenCV · real-time inference
-ml_tools   = ███████░░░  Scikit-learn · Pandas · NumPy
-
-[EMBEDDED_IOT]
-hardware   = █████████░  ESP32 · Arduino
-protocols  = ████████░░  LoRa · MQTT · I2C · SPI
-lang       = ███████░░░  C · C++
-
-[BACKEND_INFRA]
-runtime    = ████████░░  Node.js
-database   = ███████░░░  MongoDB
-devops     = ████████░░  Docker · Linux · Git · GitHub Actions
-
-[MOBILE]
-framework  = ██████░░░░  React Native
 ```
 
 ---
