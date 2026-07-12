@@ -1,24 +1,6 @@
 <div align="center">
 
-<br/>
-
-# Mohamed Amine Barhoumi
-
-**AI Engineer &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; IoT &nbsp;·&nbsp; Embedded Systems**
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=400&size=16&pause=1400&color=6E8EFB&center=true&vCenter=true&width=600&lines=Building+end-to-end+intelligent+systems.;From+ESP32+sensors+to+YOLO+vision+pipelines.;From+embedded+C+to+containerised+ML+backends.;ESIEA+Paris+%C2%B7+Seeking+internship+%C2%B7+Feb+2027.)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E8EFB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-b-engineer)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E8EFB?style=flat-square&logo=vercel&logoColor=white)](https://amine-portfolio-lilac.vercel.app/)
-&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-6E8EFB?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@medamine-barhoumi)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-6E8EFB?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedamine.barhoumi.eng@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Mohamed%20Amine%20Barhoumi&fontSize=38&fontColor=ffffff&fontAlignY=50&desc=AI%20Engineer%20%C2%B7%20I%20build%20things%20that%20run%20in%20the%20real%20world&descAlignY=70&descSize=15&descColor=8b949e" />
 
 </div>
 
@@ -26,115 +8,141 @@
 
 ---
 
-<br/>
+## 📍&nbsp; Where I am right now
 
-I build things that run in the real world — sensor networks talking over LoRa, vision models detecting life at 30 fps, backends that don't sleep. Currently a 4th-year engineering student at **ESIEA Paris**, open to a **6-month final internship starting February 2027** in Machine Learning, Computer Vision, or IoT.
+> **4th-year engineering student @ ESIEA Paris** &mdash; building at the intersection of AI, embedded systems, and IoT.
+> Currently preparing my **final-year internship (Feb 2027, 6 months)** in Machine Learning, Computer Vision, or IoT.
+> Open to teams who ship real systems, not just demos.
 
-<br/>
-
----
-
-<br/>
-
-## Selected Work
-
-<br/>
-
-**🐝 BeeSafe** &nbsp;—&nbsp; *Computer Vision · IoT · Full-stack*
-
-> Connected beehive monitoring platform built for real-world deployment. ESP32 + LoRa sensor mesh for temperature, humidity & weight. YOLOv11 bee detection across 5 behavioural classes at real-time speed. Node.js + Docker backend, React Native mobile app.
-> 
-> 🏆 Presented live at the **ESIEA Green Campus inauguration** &nbsp;·&nbsp; 🥈 **2nd place — B-TECH 2025** national innovation competition
-
-<br/>
-
-**🏥 PreviSante** &nbsp;—&nbsp; *Full-stack · ML · Health Tech*
-
-> Preventive health scoring engine designed for clinical use. REST API in Node.js, MongoDB persistence, probabilistic risk model with weighted normalization. Modular architecture built for multi-pathology extension.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-amine-b-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=vercel&logoColor=black)](https://amine-portfolio-lilac.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@medamine-barhoumi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedamine.barhoumi.eng@gmail.com)
 
 <br/>
 
 ---
 
+## 🧬&nbsp; How I got here
+
+```
+2022  ──▶  Started engineering school. Wrote my first C program.
+             Fell in love with the idea that code can control hardware.
+
+2023  ──▶  Went deeper into embedded systems — ESP32, Arduino, LoRa.
+             First sensor network. First real-time data pipeline.
+             Realised I wanted the machines to *see*, not just measure.
+
+2024  ──▶  Discovered computer vision. Trained my first YOLO model.
+             Built BeeSafe — a full system: sensors + vision + backend + mobile.
+             Presented it live at the ESIEA Green Campus inauguration.
+             Won 2nd place at B-TECH 2025. The system worked in production.
+
+2025  ──▶  Went full-stack ML: containerised pipelines, React Native apps,
+             probabilistic health models (PreviSante), cloud infrastructure.
+             Started writing about it on Medium.
+
+2026  ──▶  Refining everything. Seeking the internship where I ship
+             the most meaningful system of my career so far.
+```
+
 <br/>
 
-## Stack
+---
+
+## 🚀&nbsp; What I've shipped
+
+### 🐝 BeeSafe &mdash; *The one I'm most proud of*
+
+A **connected beehive monitoring platform** built end-to-end for real deployment, not a school project.
+
+- **Hardware layer** &mdash; ESP32 nodes + LoRa mesh &rarr; temperature, humidity, weight telemetry
+- **Vision layer** &mdash; YOLOv11 bee detection, 5 behavioural classes, real-time inference
+- **Backend** &mdash; Node.js + Docker, containerised ML pipeline
+- **Mobile** &mdash; React Native app for beekeepers
+- **Outcome** &mdash; 🏆 Live demo at ESIEA Green Campus inauguration &nbsp;&middot;&nbsp; 🥈 2nd place, B-TECH 2025 (team lead)
+
+<br/>
+
+### 🏥 PreviSante &mdash; *Where ML meets healthcare*
+
+A **preventive health scoring engine** designed for clinical use.
+
+- Probabilistic risk model with weighted normalization
+- REST API in Node.js &middot; MongoDB persistence
+- Modular architecture &mdash; built to extend across multiple pathologies
+
+<br/>
+
+---
+
+## 🧠&nbsp; What I use to build
 
 <div align="center">
 
-<br/>
+**AI &amp; Vision**
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=6E8EFB)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=6E8EFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=6E8EFB)
-![OpenCV](https://img.shields.io/badge/OpenCV-1a1a2e?style=flat-square&logo=opencv&logoColor=6E8EFB)
-![YOLO](https://img.shields.io/badge/YOLO-1a1a2e?style=flat-square&logo=ultralytics&logoColor=6E8EFB)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=6E8EFB)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-20232A?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 
-<br/>
+**Embedded &amp; IoT**
 
-![ESP32](https://img.shields.io/badge/ESP32-1a1a2e?style=flat-square&logo=espressif&logoColor=6E8EFB)
-![Arduino](https://img.shields.io/badge/Arduino-1a1a2e?style=flat-square&logo=arduino&logoColor=6E8EFB)
-![LoRa](https://img.shields.io/badge/LoRa-1a1a2e?style=flat-square&logo=semtech&logoColor=6E8EFB)
-![MQTT](https://img.shields.io/badge/MQTT-1a1a2e?style=flat-square&logo=eclipsemosquitto&logoColor=6E8EFB)
+![ESP32](https://img.shields.io/badge/ESP32-20232A?style=flat-square&logo=espressif&logoColor=E7352C)
+![Arduino](https://img.shields.io/badge/Arduino-20232A?style=flat-square&logo=arduino&logoColor=00979D)
+![MQTT](https://img.shields.io/badge/MQTT-20232A?style=flat-square&logo=eclipsemosquitto&logoColor=purple)
+![C](https://img.shields.io/badge/C-20232A?style=flat-square&logo=c&logoColor=white)
 
-<br/>
+**Backend &amp; Infra**
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=6E8EFB)
-![React Native](https://img.shields.io/badge/React_Native-1a1a2e?style=flat-square&logo=react&logoColor=6E8EFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=6E8EFB)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=6E8EFB)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=6E8EFB)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=6E8EFB)
-
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=nodedotjs&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624)
 
 </div>
 
----
-
 <br/>
 
-## Highlights
+---
+
+## 🏅&nbsp; A few things I'm proud of
 
 | | |
 |:--|:---|
-| 🥈 | **2nd place** — B-TECH 2025 national innovation competition *(team lead)* |
-| 🎤 | Presented **BeeSafe** live at the ESIEA Green Campus inauguration |
-| 🌐 | **CCNA** — Cisco Certified Network Associate |
+| 🥈 | **2nd place** &mdash; B-TECH 2025 national innovation competition *(team lead)* |
+| 🎤 | Demoed **BeeSafe** live at the ESIEA Green Campus inauguration |
+| 🌐 | **CCNA** &mdash; Cisco Certified Network Associate |
 | ☁️ | **AWS Academy** Cloud Foundations |
-| 🗣️ | **TOEIC 900** — C1 English proficiency |
+| 🗣️ | **TOEIC 900** &mdash; C1 English proficiency |
 
 <br/>
 
 ---
 
-<br/>
-
-## Stats
+## 📊&nbsp; Stats
 
 <div align="center">
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d0d1a&title_color=6E8EFB&icon_color=6E8EFB&text_color=8b8fa8&ring_color=6E8EFB" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmineBarh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d1a&title_color=6E8EFB&text_color=8b8fa8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBarh&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d0d1a&stroke=6E8EFB&ring=6E8EFB&fire=a78bfa&currStreakLabel=8b8fa8&sideLabels=8b8fa8&dates=8b8fa8&currStreakNum=ffffff&sideNums=ffffff" height="150"/>
-
-<br/>
+<img src="https://streak-stats.demolab.com?user=AmineBarh&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="150"/>
 
 </div>
 
----
-
 <br/>
+
+---
 
 <div align="center">
 
-*Open to collaboration &nbsp;·&nbsp; Always building something.*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0d1117&height=80&section=footer&text=Always%20building%20something.&fontSize=14&fontColor=8b949e" />
 
 </div>
