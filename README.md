@@ -45,7 +45,7 @@ PORT      STATE   SERVICE        VERSION
 5030/tcp  open    mobile         React Native
 
 8 open ports - no filtered services.
-OS: Engineer brain running on caffeine and curiosity.
+OS: Engineer brain running on curiosity.
 ```
 
 ---
