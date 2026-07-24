@@ -101,7 +101,6 @@ root@amine:~$ cat projects/BeeSafe/README
           YOLOv11 · 5 behavioural classes · real-time inference
 
   RESULT  Live demo @ ESIEA Green Campus inauguration
-  AWARD   🥈 2nd place - B-TECH 2025 (team lead)
   STATUS  [██████████████████░░] 90% deployed
 ```
 
